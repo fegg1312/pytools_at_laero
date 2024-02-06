@@ -24,7 +24,7 @@ curdir_path = os.getcwd()+'/'
 # ###           To be defined by user                   ###
 # #########################################################
 
-name_file_send_mnh = glob.glob('*mesonh_01.nc')[0]
+ouioui = glob.glob('*mesonh_01.nc')[0]
 name_file_recv_mnh = glob.glob('*mesonh_02.nc')[0]
 name_file_send_toy = glob.glob('*toyexe_02.nc')[0]
 name_file_recv_toy = glob.glob('*toyexe_01.nc')[0]
